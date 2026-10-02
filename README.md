@@ -40,7 +40,7 @@ I wanted a project that reflected that real workload rather than a generic publi
 
 *Full dashboard view, no filters applied.*
 
-![Filtered to High Priority Procurement tickets](./screenshots/New%20-%20Full Filtered%20to%20High%20Priority%20Procurement.png)
+![Filtered to High Priority Procurement tickets](./screenshots/New%20-%20Filtered%20to%20High%20Priority%20Procurement.png)
 
 *Filtered to High Priority tickets in Procurement — demonstrates the Department/Priority/Date slicers.*
 
