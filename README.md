@@ -36,11 +36,11 @@ I wanted a project that reflected that real workload rather than a generic publi
 
 ## Screenshots
 
-![Full dashboard, unfiltered](./screenshots/Full%20Dashboard%20-%20Unfiltered.png)
+
 
 *Full dashboard view, no filters applied.*
 
-![Filtered to High Priority Procurement tickets](./screenshots/Filtered%20to%20High%20Priority%20Procurement.png)
+
 
 *Filtered to High Priority tickets in Procurement — demonstrates the Department/Priority/Date slicers.*
 
